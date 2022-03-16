@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #252424;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    background: #18688d;
+    width: 100%;
+    clear: both;
+    content: '';
+    display: table; 
+}
+
+
+.obligatorio{
+color: red;
+
+}
+.formulario{
+width: 460px;
+height: auto;
+margin: 80px auto;
+background-color: rgb(22, 2, 202);
+
+}
+label{
+    display: block;
+    float: center;
+}
+input{
+    background-color: #0502aaa8;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    border-style: solid;
+    border-width: 1px;
+}
+textarea{
+    background-color: #0c98aaa8;
+    width: 400px;
+    height: 150px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

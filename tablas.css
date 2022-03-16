@@ -1,0 +1,19 @@
+
+      table, td, th {
+        border:1px solid black;
+      }
+      table {
+        border-collapse:collapse;
+        width:100%;
+      }
+      td, th {
+        padding:5px;
+      }
+      body{
+        background: #180b42;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-decoration: none;
+        color: rgba(240, 240, 240, 0.76);
+        font-weight: bold;
+    }
+    
